@@ -30,9 +30,9 @@ Collects specific data of the country, which includes;
 
 From the country endpoint everything except "currencyCodes" is being used. From the country detail endpoint
 "code", "name", "flagImageUri", "wikiDataId" is being used.
-- Example Data from CountryDetail
+#### Example Data from CountryDetail
 ![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/kari7bc.jpg)
-- Example Data from Countries
+#### Example Data from Countries
 ![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/2e6oxl3.jpg)
 
 
